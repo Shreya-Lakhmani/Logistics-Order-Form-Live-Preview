@@ -8,3 +8,30 @@ Live Demo
 
 Figma Design
 🎨 Figma Design Link: https://www.figma.com/make/WR9RfdJRP6uEa80NaHHRXr/Create-UI-Page?p=f&fullscreen=1
+
+# Project Structure
+
+├── my-react-app
+│   ├── node_modules
+│   ├── public
+│   │
+│   ├── src
+│   │   ├── app
+│   │   │   ├── components
+│   │   │   └── App.jsx
+│   │   │
+│   │   ├── styles
+│   │   │   ├── fonts.css
+│   │   │   ├── index.css
+│   │   │   ├── tailwind.css
+│   │   │   └── theme.css
+│   │   │
+│   │   └── main.jsx
+│   │
+│   ├── .gitignore
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   └── vite.config.js
